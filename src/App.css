@@ -12,6 +12,7 @@
 
 
   /* Just some random styling */
+
 form > label {
   display: block;
   margin-bottom: 10px;
@@ -34,4 +35,3 @@ button {width: 110px}
 
 
 
-}
